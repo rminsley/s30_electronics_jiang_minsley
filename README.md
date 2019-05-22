@@ -6,7 +6,28 @@ The Arduino Vocal Effects Box is a real-time digital signal processor that disto
 ## Parts
 Amount | Part
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-something | something
-somethingelse | sometingelse
+1 | Arduino Uno REV 3
+2 | 100 Ω 1/4W Resistor
+7 | 10 kΩ 1/4-Watt Resistor 
+9 | 20 kΩ 1/4-Watt Resistor
+1 | 1 kΩ 1/4-Watt Resistor 
+3 | 100 kΩ 1/4-Watt Resistor
+1 | 2 kΩ 1/4-Watt Resistor
+1 | 10 kΩ Audio Control Potentiometer
+2 | 10 kΩ Linear-Taper Potentiometer
+2 | 1 MΩ Linear-Taper Potentiometer
+1 | 1 MΩ Logarithmic Potentiometer
+1 | 10 μF electrolytic capacitor
+1 | 47 nF capacitor
+3 | 0.1 μF capacitor
+1 | TL082 Wide Dual JFET Input Op Amp
+2 | TS922IDT Dual Op Amp
+2 | Socket Adapter SOIC to 8DIP (to put the amp on breadboard)
+2 | 9V Alkaline Battery
+2 | Heavy-Duty 9V Snap Connectors
+1 | SPST Switch
+1 | DPDT Switch
+2 | 5mm LED
+1 | Microphone that can be read on Oscilloscope 
+1 | 3W 16Ω Speaker
+
