@@ -1,4 +1,5 @@
-# s30_electronics_jiang_minsley
+# Arduino Vocal Effects Box
+
 ## Description 
 
 ## Parts
