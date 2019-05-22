@@ -33,6 +33,9 @@ Amount | Part
 
 ### Budget
 We had the resistors, capacitors, Arduino, microphone and speaker from our lab, so for us it amounts to
+
 Actual Spending: $40
+
 But if to build from ground up, it would require
+
 Project Budget: $100
