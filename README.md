@@ -32,5 +32,5 @@ Amount | Part
 1 | 3W 16Ω Speaker
 
 ### Budget
-Total Cost: ~$100
+Total Cost: ~$100  
 Cost exluding parts found in lab (i.e. resistors, capacitors, Arduino, microphone and speaker): ~$40
