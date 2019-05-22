@@ -30,5 +30,3 @@ Amount | Part
 2 | 5mm LED
 1 | Microphone that can be read on Oscilloscope 
 1 | 3W 16Ω Speaker
-
-$\int_0^\inf x^2 $
