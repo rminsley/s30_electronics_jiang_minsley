@@ -30,7 +30,7 @@ Amount | Part
 2 | 5mm LED
 1 | Microphone that can be read on Oscilloscope 
 1 | 3W 16Ω Speaker
-1 | Bread-board with power strips
+1 | Breadboard with power strips
 
 ### Budget
 Total Cost: ~$100  
