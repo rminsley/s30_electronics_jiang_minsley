@@ -34,7 +34,7 @@ Amount | Part
 
 ### Budget
 Total Cost: ~$100  
-Cost exluding parts found in lab (i.e. resistors, capacitors, Arduino, microphone and speaker): ~$40
+Cost exluding parts found in lab (i.e. resistors, capacitors, Arduino, breadboard, microphone and speaker): ~$40
 
 ## Assembly Description 
   The project can be broken down into three parts: the audio output, the audio input, the distortion control. We first built the audio output (See circuit diagram 1). For part 1, we were mostly able to construct the circuit with the provided circuit diagram from the instructable page. The audio output comes from the Arduino digital output pins 0 to 7. From these pins, the signal goes through a 8-bit R2R digital to analog converter (DAC). The R2R DAC is composed of a resistor ladder of seven 10 kΩ resistors and nine 20 kΩ resistors. After constructing the DAC we tested the DAC output using the code from step 6 of the instructables page (see testing_dac.ino)
